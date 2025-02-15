@@ -1,5 +1,5 @@
 html {
-    background-color: white;
+    background-color: maroon
 }
 p{
     color: aliceblue;
@@ -12,7 +12,7 @@ p{
     text-shadow: 2px 2px 5px;
 }
 body{
-    background-color: white;
+    background-color: purple;
     width: 750px;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
@@ -24,12 +24,11 @@ img {
     grid-gap: 3780px;
 }
 table {
-    background-color: rgb(68, 9, 9);
+    background-color: maroon;
     font-size: 40px;
     border: 5px solid black;
-    color: rgb(255, 255, 255);
-}
-button {
-    background-color: rgb(105, 4, 105);
     color: white;
 }
+button {
+    background-color: purple;
+    color: white;
